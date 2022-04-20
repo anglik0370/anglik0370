@@ -26,7 +26,7 @@
 > <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white">  
 > <img src="https://img.shields.io/badge/phpMyAdmin-777BB4?style=for-the-badge&logo=phpMyAdmin&logoColor=white">  
 
-❤️Conncection❤️
+❤️Contact❤️
 ---------------
 > <a href="https://www.facebook.com/profile.php?id=100015085929896" target="_blank"><img src="https://img.shields.io/badge/FaceBook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 > <a href="https://www.instagram.com/4ng1_ik/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
